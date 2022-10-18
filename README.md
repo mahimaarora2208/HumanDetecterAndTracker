@@ -1,4 +1,5 @@
 # Human Detector and Tracker 
+[![Coverage Status](https://coveralls.io/repos/github/mahimaarora2208/HumanDetecterAndTracker/badge.svg?branch=main)](https://coveralls.io/github/mahimaarora2208/HumanDetecterAndTracker?branch=main)
 ## Team:Group 4
 
  - Mahima Arora - Driver (https://github.com/mahimaarora2208)
